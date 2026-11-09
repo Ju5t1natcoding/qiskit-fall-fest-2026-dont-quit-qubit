@@ -2,7 +2,7 @@
 
 > 🏆 **Perfect score — fastest completion time!**
 >
-> Team ***Don't quit, qubit!*** achieved the maximum possible score in the shortest time during the Qiskit Fall Fest 2026 High School Quantum Challenge in Iași, Romania.
+> Team **Don't quit, qubit!** achieved the maximum possible score in the shortest completion time among all participating teams at the Qiskit Fall Fest 2026 High School Quantum Challenge in Iași, Romania.
 
 ## Overview
 
@@ -17,6 +17,8 @@ The challenge consists of **six levels and eight bells**, each representing an i
 The story takes participants through several recognizable locations in Iași, connecting quantum computing concepts with the city's landmarks.
 
 ## Learning Path
+
+The repository includes an introductory Level 0, followed by six main challenge levels (Levels 1–6). Across the challenge, eight bells mark important milestones in the recovery of the quantum network.
 
 | Level | Name | Main Topics |
 |---|---|---|
@@ -38,7 +40,8 @@ Each level combines explanations, programming exercises, verification tasks and 
 │   └── produs_matrici.cpp
 │
 ├── Final Project/
-│   └── LINK CANVA.docx
+│   ├── echipa__premiere.jpeg
+│   └── project_link_CANVA.txt
 │
 ├── Given Resources/
 │   ├── Deschiderea provocării — slide-uri.pdf
@@ -114,9 +117,7 @@ Some challenge verification tasks depend on the availability of the organizers' 
 
 ## Final Presentation
 
-The repository includes a presentation reference document:
-
-[`Final Project/project_link_CANVA.txt`](Final%20Project/project_link_CANVA.txt)
+Our final project presentation is available on [Canva](https://canva.link/c1gsa3iio8i75r7).
 
 ## Team
 
