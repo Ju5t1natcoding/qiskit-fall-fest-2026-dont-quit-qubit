@@ -1,6 +1,8 @@
 # The Quantum Clock of Iași
 
-> A story-driven quantum computing challenge developed for **Qiskit Fall Fest Iași 2026** by Team **Don't quit, qubit!**
+> 🏆 **Perfect score — fastest completion time!**
+>
+> Team ***Don't quit, qubit!*** achieved the maximum possible score in the shortest time during the Qiskit Fall Fest 2026 High School Quantum Challenge in Iași, Romania.
 
 ## Overview
 
