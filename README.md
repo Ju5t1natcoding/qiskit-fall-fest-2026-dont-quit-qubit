@@ -120,6 +120,8 @@ The repository includes a presentation reference document:
 
 **Team Name:** *Don't quit, qubit!*
 
+![poza_echipa](Final%20Project/echipa__premiere.jpeg)
+
 Individual team members and their contributions will be listed here after they have been confirmed by each member.
 
 ## Event
