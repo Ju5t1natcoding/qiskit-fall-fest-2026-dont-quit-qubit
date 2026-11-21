@@ -127,8 +127,6 @@ Our final project presentation is available on [Canva](https://canva.link/c1gsa3
 
 ![poza_echipa](Final%20Project/echipa__premiere.jpeg)
 
-Individual team members and their contributions will be listed here after they have been confirmed by each member.
-
 ## Event
 
 **Qiskit Fall Fest Iași 2026**
