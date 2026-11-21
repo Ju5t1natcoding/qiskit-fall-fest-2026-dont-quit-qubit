@@ -4,6 +4,8 @@
 >
 > Team **Don't quit, qubit!** achieved the maximum possible score in the shortest completion time among all participating teams at the Qiskit Fall Fest 2026 High School Quantum Challenge in Iași, Romania.
 
+> This repository was created after the event to archive the solutions written during the challenge; the commit history does not reflect the actual timeline of the work.
+
 ## Overview
 
 **The Quantum Clock of Iași** (*Ceasul Cuantic al Iașului*) is an educational quantum computing challenge built around a fictional story set in Iași, Romania.
